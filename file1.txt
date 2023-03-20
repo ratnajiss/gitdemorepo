@@ -1,4 +1,8 @@
 hi hi
 i am ratnaji
 thanks
+<<<<<<< HEAD
 Ratnaji
+=======
+ratna
+>>>>>>> 9bfde95df61fcb638722cff4b27694775aae938c
